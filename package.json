@@ -1,0 +1,22 @@
+{
+  "name": "backend-week3-ejercicio2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalexez/spiderverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalexez/spiderverse/issues"
+  },
+  "homepage": "https://github.com/dalexez/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
